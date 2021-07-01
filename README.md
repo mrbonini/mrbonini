@@ -1,10 +1,10 @@
 General description:
-  - Jr Full Stack Developer, experienced in build ReactJS SPAs with Redux (saga, thunk and logic), form handlers, React Hooks and even using Apollo-GraphQL. 
+  Experienced in building ReactJS SPAs with Redux (saga, thunk and logic), form handlers, React Hooks and even using Apollo-GraphQL. 
   Extensive knowledge building restful apis with NodeJS using ExpressJS or NestJS framework, using MongoDB as non relational database. Acquiring some 
   familiarity with Docker, Kubernetes and serverless technology with GCP and AWS.
 
 Project Status: 
-  - Junior ~ Mid Level Developer
+  - Fullstack Developer
 
 How to install and use:
   - E-mail: ks.bonini@gmail.com
@@ -24,7 +24,7 @@ Used technologies:
   - AWS (S3, CloudFront, EC2, Route53);
 
 Known bugs:
-  - Incomplete System's Analisys and Development Degree.
+  - Working through 42 Programming .
 
 Bug fixes:
   - Trying to enter 42 programming school, waiting to participate from their Basecamp.
